@@ -4,10 +4,29 @@ let projects = [
     imgURL:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_CCB0-i1O1dMmN-LnVYdBZt9D2-OEWT3K6Q&usqp=CAU",
       title: "FOR ZAINUNUESA",
       genre: "Romance",
+      album:"Single",
       artist: "TDL2627",
       year:"2021",
-      stream:'<iframe src="https://drive.google.com/file/d/1Bw4aGca7gOCzN58FhqvXxdxMRX4ru_pZ/preview" width="400" height="50" allow="autoplay"></iframe>',
-    }
+      stream:'<iframe src="https://drive.google.com/file/d/1Bw4aGca7gOCzN58FhqvXxdxMRX4ru_pZ/preview" width="300" height="50" allow="autoplay"></iframe>',
+    },
+    {
+        imgURL:"/images/ootw.jpeg",
+          title: "BARZ",
+          genre: "Hype",
+          artist: "TDL2627",
+          album:"Out Of this wOrld",
+          year:"2022",
+          stream:'<iframe src="https://drive.google.com/file/d/1f9Yw2MX20A5hkGcWA8IRf7zUGMP0CklT/preview" width="300" height="50" allow="autoplay"></iframe>',
+        },
+        {
+            imgURL:"/images/ootw.jpeg",
+            title: "NEVER STOP",
+              genre: "Hype",
+              artist: "TDL2627",
+              album:"Out Of this wOrld",
+              year:"2022",
+              stream:'<iframe src="https://drive.google.com/file/d/1-EcmWb4AlWJ3XVgv-LK5GLOry_ofFxjL/preview" width="300" height="50" allow="autoplay"></iframe>',
+            }
   ];
   
   function createCard(card) {
